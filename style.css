@@ -1,0 +1,44 @@
+body{
+    background-color: orange;
+}
+
+.head{
+    color: blue;
+}
+
+#bglime{
+    background-color: greenyellow;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+h2 span{
+    color: red;
+}
+
+#para span{
+    color: black;
+    font-size: 20px;
+}
+
+ul li a{
+    background-color: yellow;
+}
+
+ol section li{
+    color: blue;
+}
+
+ol article li{
+    color: red;
+}
+
+ul section li a{
+    background-color:purple ;
+}
